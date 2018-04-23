@@ -1,0 +1,10 @@
+http://blog.camilolopes.com.br/instalandogitubuntu/
+
+http://www.ubuntuiniciantes.com.br/2016/12/arquivo-dos-repositorios-do-ubuntu.html
+
+https://casadopinduvoz.wordpress.com/2013/07/27/lista-de-repositorios-fontes-do-ubuntu/
+
+https://www.diolinux.com.br/2013/02/como-adicionar-um-ppa-no-ubuntu.html
+
+https://www.hostinger.com.br/tutoriais/como-instalar-git-no-ubuntu-14-04/
+
