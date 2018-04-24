@@ -8,3 +8,4 @@ https://www.diolinux.com.br/2013/02/como-adicionar-um-ppa-no-ubuntu.html
 
 https://www.hostinger.com.br/tutoriais/como-instalar-git-no-ubuntu-14-04/
 
+https://www.thegeekstuff.com/2008/11/3-steps-to-perform-ssh-login-without-password-using-ssh-keygen-ssh-copy-id/
