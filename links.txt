@@ -9,3 +9,47 @@ https://www.diolinux.com.br/2013/02/como-adicionar-um-ppa-no-ubuntu.html
 https://www.hostinger.com.br/tutoriais/como-instalar-git-no-ubuntu-14-04/
 
 https://www.thegeekstuff.com/2008/11/3-steps-to-perform-ssh-login-without-password-using-ssh-keygen-ssh-copy-id/
+
+https://www.thegeekstuff.com/2009/01/12-amazing-and-essential-linux-books-to-enrich-your-brain-and-library/ 
+
+Metas para 1, 3, 5, 10 anos
+Central de Gestante
+4020-1785 
+
+1) O que você mais gosta e sabe fazer hoje?
+2 )Sobre qual assunto as pessoas mais lhe perguntam e tiram dúvidas?
+3) Que tipo de atividade ou trabalho faria você levantar todas as manhãs super empolgado, sem esforço?
+
+Faça você essa simples atividade agora.
+
+Anote suas 3 respostas, e condense tudo em uma única ideia.
+
+Agora, vá no Google e digite esta ideia que você encontrou.
+
+Você encontrou sua ideia de negócio. O que é o mais importante.
+
+O segundo passo é criar um curso sobre este assunto e empacotá-lo em formato digital.
+
+
+Como criar um curso?
+
+Simples… Vamos começar do começo.
+
+Eu uso esse simples sistema para dividir tudo o que eu ensino em meus cursos:
+
+1)O quê?
+2)Por quê?
+3)Como?
+4)O que mais?
+
+No primeiro item, “o quê?”, eu sempre explico o que é a ideia central do meu curso. É um resumo simplificado do que eu vou ensinar.
+
+No segundo item, “por quê?”, eu explico quais são os motivos que fazem a minha ideia funcionar. Eu explico a lógica do funcionamento.
+
+No terceiro item, “como?”, eu explico o passo-a-passo que leva o meu aluno sair do início e chegar no final. Ou seja, eu explico como ele vai se transformar seguindo um processo. Eu explico quais são as etapas básicas, intermediárias e avançadas. Eu percorro com ele o processo de implementação do básico até o avançado.
+
+No quarto item, “o que mais?”, eu mostro outros caminhos onde o meu aluno pode começar a se aventurar. Ele já implementou o processo do “como" e agora eu posso mostrar no que ele pode se especializar.
+
+Esse simples sistema de apenas 4 etapas permite você construir o seu curso.
+
+Você pode dividir todo o seu curso usando "mapas mentais".
